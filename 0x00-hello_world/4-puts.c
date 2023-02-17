@@ -1,7 +1,7 @@
 #include <stdio.h>
-/*
- * Main - We are going to write a C program that prints a line given below
- * Return : 0
+/**
+ * main - We are going to write a C program that prints a line given below
+ * Return: 0(Success)
 */
 int main(void)
 {
